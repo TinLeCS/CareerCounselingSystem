@@ -1,0 +1,233 @@
+<student>
+    <interests>
+        <r_interests>
+            <interest id="interst_1" point="1">Working with hand</interest>
+            <interest id="interst_2" point="1">Making things</interest>
+            <interest id="interst_3" point="1">Fixing things</interest>
+            <interest id="interst_4" point="1">Building things</interest>
+            <interest id="interst_5" point="1">Assembling things</interest>
+            <interest id="interst_6" point="1">Using and operating equipment,tools and machines</interest>
+            <interest id="interst_7" point="1">Working with plants and animals</interest>
+            <interest id="interst_8" point="1">Working outdoor</interest>
+        </r_interests>
+        <i_interests>
+            <interest id="interst_9" point="5">Discovering things</interest>
+            <interest id="interst_10" point="5">Researching ideas</interest>
+            <interest id="interst_11" point="5">Observing things</interest>
+            <interest id="interst_12" point="5">Investigate and experimenting</interest>
+            <interest id="interst_13" point="5">Asking questions</interest>
+            <interest id="interst_14" point="5">Analyzing and solving complex problems</interest>
+            <interest id="interst_15" point="5">Reading books about sciences</interest>
+        </i_interests>
+        <a_interests>
+            <interest id="interst_16" point="1">Using words to communicate</interest>
+            <interest id="interst_17" point="1">Using art to express themselves</interest>
+            <interest id="interst_18" point="1">Using drama to perform</interest>
+            <interest id="interst_19" point="5">Creating innovative things</interest>
+            <interest id="interst_20" point="5">Designing things</interest>
+            <interest id="interst_21" point="5">Working in unstructured situations</interest>
+            <interest id="interst_22" point="1">Playing a musical instrument</interest>
+        </a_interests>
+        <s_interests>
+            <interest id="interst_23" point="3">Teaching people</interest>
+            <interest id="interst_24" point="5">Sharing in group</interest>
+            <interest id="interst_25" point="1">Trainging and inform others</interest>
+            <interest id="interst_26" point="5">Helping people</interest>
+            <interest id="interst_27" point="5">Counseling others</interest>
+            <interest id="interst_28" point="5">Serving and Greeting</interest>
+            <interest id="interst_29" point="5">Concerned for wellbeing and welfare of others</interest>            
+        </s_interests>
+        <e_interests>
+            <interest id="interst_30" point="5">Meeting people</interest>
+            <interest id="interst_31" point="5">Leading others</interest>
+            <interest id="interst_32" point="5">Persuading others to adopt your beliefs</interest>
+            <interest id="interst_33" point="5">Encouraging others</interest>
+            <interest id="interst_34" point="5">Working in business</interest>
+            <interest id="interst_35" point="5">Selling products or services</interest>
+            <interest id="interst_36" point="5">Seeking for power and status</interest>
+        </e_interests>
+        <c_interests>
+            <interest id="interst_37" point="5">Organising and being accurate</interest>
+            <interest id="interst_38" point="5">Following procedures</interest>
+            <interest id="interst_39" point="5">Working with data and numbers</interest>
+            <interest id="interst_40" point="5">Using computer for calculating</interest>
+            <interest id="interst_41" point="5">Planning works and events</interest>
+            <interest id="interst_42" point="5">Working indoor</interest>
+            <interest id="interst_43" point="5">Being careful and responsible</interest>
+        </c_interests>
+    </interests>
+    <skills>
+        <r_skills>
+            <skill id="skill_1" point="5.0">Making/Repairing things</skill>
+            <skill id="skill_2" point="5.0">Problem solving with tools/machines</skill>
+            <skill id="skill_3" point="5.0">Mechanical dexterity</skill>
+            <skill id="skill_4" point="0">Trees/plants caring</skill>
+            <skill id="skill_5" point="5.0">Physical coordination</skill>
+        </r_skills>
+        <i_skills>
+            <skill id="skill_6" point="5.0">Scientific investigation</skill>
+            <skill id="skill_7" point="5.0">Researching</skill>
+            <skill id="skill_8" point="5.0">Analyzing</skill>
+            <skill id="skill_9" point="5.0">Writing technical documents</skill>
+            <skill id="skill_10" point="5.0">Performing mathematics</skill>
+            <skill id="skill_11" point="5.0">Solving complex problems</skill>
+        </i_skills>
+        <a_skills>
+            <skill id="skill_12" point="5.0">Dramatics</skill>
+            <skill id="skill_13" point="5.0">Creativity</skill>
+            <skill id="skill_14" point="5.0">Imagination</skill>
+            <skill id="skill_15" point="5.0">Verbal-linguistic</skill>
+            <skill id="skill_16" point="5.0">Musical</skill>
+        </a_skills>
+        <s_skills>
+            <skill id="skill_17" point="5.0">Understanding others</skill>
+            <skill id="skill_18" point="5.0">Developing relationships</skill>
+            <skill id="skill_19" point="5.0">Verbal communication</skill>
+            <skill id="skill_20" point="5.0">Teaching</skill>
+            <skill id="skill_21" point="5.0">Listening</skill>
+        </s_skills>
+        <e_skills>
+            <skill id="skill_22" point="5.0">Business savvy</skill>
+            <skill id="skill_23" point="5.0">Persuading/selling</skill>
+            <skill id="skill_24" point="5.0">Social interaction</skill>
+            <skill id="skill_25" point="5.0">Leading</skill>
+            <skill id="skill_26" point="5.0">Accomplishing organizational goals</skill>
+        </e_skills>
+        <c_skills>
+            <skill id="skill_27" point="5.0">Organization</skill>
+            <skill id="skill_28" point="5.0">Efficiency</skill>
+            <skill id="skill_29" point="5.0">Patience</skill>
+            <skill id="skill_30" point="5.0">Prudence</skill>
+        </c_skills>        
+    </skills>
+    <subjects>
+        <subject grade="10" id="subject_1">Mathematics
+            <eff_skill influce_level="3">Solving complex problems</eff_skill>
+            <eff_skill influce_level="3">Analyzing</eff_skill>
+            <eff_skill influce_level="3">Performing mathematics</eff_skill>
+            <eff_skill influce_level="1">Organization</eff_skill>
+            <eff_skill influce_level="2">Efficiency</eff_skill>
+            <eff_skill influce_level="2">Creativity</eff_skill>
+            <eff_skill influce_level="2">Imagination</eff_skill>
+            <eff_skill influce_level="1">Prudence</eff_skill>
+            <eff_skill influce_level="2">Scientific investigation</eff_skill>
+            <eff_skill influce_level="3">Researching</eff_skill>
+        </subject>
+        <subject grade="10" id="subject_2">English
+            <eff_skill influce_level="3">Verbal communication</eff_skill>
+            <eff_skill influce_level="3">Listening</eff_skill>
+            <eff_skill influce_level="2">Social interaction</eff_skill>
+            <eff_skill influce_level="2">Patience</eff_skill>
+            <eff_skill influce_level="2">Business savvy</eff_skill>
+            <eff_skill influce_level="3">Persuading/selling</eff_skill>
+        </subject>
+        <subject grade="10" id="subject_3">Literature
+            <eff_skill influce_level="3">Dramatics</eff_skill>
+            <eff_skill influce_level="2">Imagination</eff_skill>
+            <eff_skill influce_level="3">Verbal-linguistic</eff_skill>
+            <eff_skill influce_level="2">Understanding others</eff_skill>
+            <eff_skill influce_level="3">Teaching</eff_skill>
+            <eff_skill influce_level="1">Persuading/selling</eff_skill>
+            <eff_skill influce_level="2">Social interaction</eff_skill>
+            <eff_skill influce_level="3">Prudence</eff_skill>
+        </subject>
+        <subject grade="10" id="subject_4">Chemistry
+            <eff_skill influce_level="2">Analyzing</eff_skill>
+            <eff_skill influce_level="3">Researching</eff_skill>
+            <eff_skill influce_level="1">Organization</eff_skill>
+            <eff_skill influce_level="3">Scientific investigation</eff_skill>
+            <eff_skill influce_level="2">Solving complex problems</eff_skill>
+            <eff_skill influce_level="2">Prudence</eff_skill>
+            <eff_skill influce_level="1">Accomplishing organizational goals</eff_skill>
+        </subject>    
+        <subject grade="10" id="subject_5">Physics
+            <eff_skill influce_level="2">Scientific investigation</eff_skill>
+            <eff_skill influce_level="3">Making/Repairing things</eff_skill>
+            <eff_skill influce_level="3">Problem solving with tools/machines</eff_skill>
+            <eff_skill influce_level="3">Solving complex problems</eff_skill>
+            <eff_skill influce_level="2">Writing technical documents</eff_skill>  
+            <eff_skill influce_level="2">Performing mathematics</eff_skill> 
+            <eff_skill influce_level="3">Musical</eff_skill>
+            <eff_skill influce_level="2">Analyzing</eff_skill>
+        </subject>
+        <subject grade="10" id="subject_6">Biology
+            <eff_skill influce_level="2">Scientific investigation</eff_skill>
+            <eff_skill influce_level="3">Researching</eff_skill>
+            <eff_skill influce_level="1">Analyzing</eff_skill>
+            <eff_skill influce_level="2">Patience</eff_skill>
+            <eff_skill influce_level="2">Prudence</eff_skill>
+        </subject>
+        <subject grade="10" id="subject_7">History
+            <eff_skill influce_level="1">Social interaction</eff_skill>
+            <eff_skill influce_level="2">Leading</eff_skill>
+            <eff_skill influce_level="2">Patience</eff_skill>
+            <eff_skill influce_level="1">Developing relationships</eff_skill>
+            <eff_skill influce_level="1">Teaching</eff_skill>
+        </subject>
+        <subject grade="10" id="subject_8">Informatics
+            <eff_skill influce_level="3">Analyzing</eff_skill>
+            <eff_skill influce_level="3">Writing technical documents</eff_skill>
+            <eff_skill influce_level="2">Performing mathematics</eff_skill>
+            <eff_skill influce_level="3">Solving complex problems</eff_skill>
+            <eff_skill influce_level="1">Scientific investigation</eff_skill>
+            <eff_skill influce_level="2">Creativity</eff_skill>
+            <eff_skill influce_level="1">Imagination</eff_skill>
+        </subject>
+        <subject grade="10" id="subject_9">Civic Education
+            <eff_skill influce_level="3">Understanding others</eff_skill>
+            <eff_skill influce_level="2">Developing relationships</eff_skill>
+            <eff_skill influce_level="2">Verbal communication</eff_skill>
+            <eff_skill influce_level="2">Teaching</eff_skill>
+            <eff_skill influce_level="1">Business savvy</eff_skill>
+            <eff_skill influce_level="2">Persuading/selling</eff_skill>
+            <eff_skill influce_level="1">Social interaction</eff_skill>
+            <eff_skill influce_level="2">Leading</eff_skill>
+            <eff_skill influce_level="3">Organization</eff_skill>
+        </subject>
+        <subject grade="10" id="subject_10">Physical Education
+            <eff_skill influce_level="3">Physical coordination</eff_skill>
+            <eff_skill influce_level="1">Problem solving with tools/machines</eff_skill>
+        </subject>
+        <subject grade="10" id="subject_11">Geography
+            <eff_skill influce_level="1">Analyzing</eff_skill>
+            <eff_skill influce_level="1">Developing relationships</eff_skill>
+            <eff_skill influce_level="2">Business savvy</eff_skill>
+            <eff_skill influce_level="1">Persuading/selling</eff_skill>
+            <eff_skill influce_level="1">Teaching</eff_skill>
+        </subject>
+        <subject grade="10" id="subject_12">Technology
+            <eff_skill influce_level="2">Making/Repairing things</eff_skill>
+            <eff_skill influce_level="2">Problem solving with tools/machines</eff_skill>
+            <eff_skill influce_level="3">Mechanical dexterity</eff_skill>
+            <eff_skill influce_level="2">Efficiency</eff_skill>
+        </subject>
+        <subject grade="10" id="subject_13">Young Union Activities
+            <eff_skill influce_level="2">Understanding others</eff_skill>
+            <eff_skill influce_level="1">Problem solving with tools/machines</eff_skill>
+            <eff_skill influce_level="3">Developing relationships</eff_skill>
+            <eff_skill influce_level="3">Business savvy</eff_skill>
+            <eff_skill influce_level="3">Persuading/selling</eff_skill>
+            <eff_skill influce_level="3">Verbal communication</eff_skill>
+            <eff_skill influce_level="3">Social interaction</eff_skill>
+            <eff_skill influce_level="3">Leading</eff_skill>
+            <eff_skill influce_level="3">Accomplishing organizational goals</eff_skill>
+            <eff_skill influce_level="2">Organization</eff_skill>
+            <eff_skill influce_level="3">Efficiency</eff_skill>
+        </subject>
+        <elective_subjects>
+            <subject grade="10" id="subject_14">Electricity
+                <eff_skill influce_level="2">Making/Repairing things</eff_skill>
+                <eff_skill influce_level="1">Problem solving with tools/machines</eff_skill>
+                <eff_skill influce_level="2">Mechanical dexterity</eff_skill>
+                <eff_skill influce_level="2">Analyzing</eff_skill>
+            </subject>
+            <subject id="subject_15">Photograph
+                <eff_skill influce_level="3">Imagination</eff_skill>
+                <eff_skill influce_level="3">Creativity</eff_skill>
+            </subject>
+            <subject id="subject_16">Forestry
+                <eff_skill influce_level="3">Trees/plants caring</eff_skill>
+            </subject>
+        </elective_subjects>
+    </subjects>   
+</student>

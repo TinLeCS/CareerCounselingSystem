@@ -1,0 +1,14 @@
+body{
+    background: url('../Images/Background.jpg') 0 0px repeat-y;
+}
+
+#submit {
+    width: 74px;
+    height: 42px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent url("../Images/Submit Button.png") no-repeat center top;
+    text-indent: -1000em;
+    cursor: pointer;
+}
